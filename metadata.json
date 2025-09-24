@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Learning Management System",
+  "description": "A prototype Learning Management System (LMS) that leverages the Gemini API to dynamically generate course content, evaluate assignments, and provide student feedback. It showcases workflows for students, teachers, and administrators.",
+  "requestFramePermissions": []
+}
